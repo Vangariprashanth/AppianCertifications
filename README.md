@@ -1,2 +1,2 @@
-# AppianCertifications
-This repository contains Appian Certifications
+# Appian Certifications
+This repository contains Appian Certifications.
